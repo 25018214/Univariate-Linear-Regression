@@ -53,6 +53,8 @@ plt.show()
 ```
 ## Output
 <img width="698" height="518" alt="Screenshot 2025-12-14 142602" src="https://github.com/user-attachments/assets/7c7f53ad-5800-4e35-aea4-93598f19ce9e" />
+<img width="1705" height="112" alt="image" src="https://github.com/user-attachments/assets/1e32592f-852b-4a6b-9afb-e9a10646052a" />
+
 <img width="689" height="515" alt="Screenshot 2025-12-14 142615" src="https://github.com/user-attachments/assets/56044faa-0d45-40de-9297-bc071abc37b2" />
 
 
